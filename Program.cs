@@ -4,6 +4,6 @@
     {
         Console.WriteLine("What's your name:");
         string nombre = Console.ReadLine();
-        Console.WriteLine("Hello " + nombre);
+        Console.WriteLine("fuck off " + nombre);
     }
 }
